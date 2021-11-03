@@ -1,0 +1,41 @@
+  /* .doc{
+    border: 2px black solid;
+    text-align: center;
+    text-transform: capitalize;
+}
+.doc h1{
+    color: gray;
+} 
+{
+    text-transform: capitalize;
+}
+.bg{
+    border: 2px black solid;
+}
+.log{
+    display: inline-block;
+     text-align: right;
+}
+.log button{
+    border: none;
+    background: violet;
+    margin-top: 7px;
+    color: white; 
+}
+.list ul{
+    list-style: none;
+    text-align: center;
+}
+.list ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: gray;
+    margin-right: 50px;
+    font-size: 20px;
+    margin-top: 7px;
+    text-align: center;
+}  */
+
+.unorder li{
+    float: right;
+}
